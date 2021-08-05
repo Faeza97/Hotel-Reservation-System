@@ -1,4 +1,4 @@
 # Hotel-Reservation-System
 
 
-![Example of Hotel-Reservation-System](hotel/images/p2.jpg)
+![Example of Hotel-Reservation-System](hotel/images/p2.PNG)
